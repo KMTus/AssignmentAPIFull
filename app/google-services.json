@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412286349563",
+    "project_id": "asm-api-2735a",
+    "storage_bucket": "asm-api-2735a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412286349563:android:e0d926a995c43c8271005e",
+        "android_client_info": {
+          "package_name": "fpoly.tukmph32467.assignmentapiph32467"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEPixR3ohNFi0gsOrKvGCAVA62FVDXn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
